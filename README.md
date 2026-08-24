@@ -1,5 +1,5 @@
 <div align="center">
-# 👋 Hi, I'm Malli Lokesh
+### 👋 **Hi, I'm Malli Lokesh**
 
 ### 🚀 Aspiring Java Full Stack Developer
 </div>
