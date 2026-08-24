@@ -55,12 +55,5 @@ I'm a Computer Science Engineering student passionate about **Generative AI, Mac
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
 
----
 
-
----
-
-
-
----
 
