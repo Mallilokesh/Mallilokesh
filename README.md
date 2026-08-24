@@ -1,6 +1,8 @@
+<div align="center">
 # 👋 Hi, I'm Malli Lokesh
 
 ### 🚀 Aspiring Java Full Stack Developer
+</div>
 
 I'm a Computer Science Engineering student passionate about **Generative AI, Machine Learning, Java, and Full Stack Development**. I enjoy building practical projects that solve real-world problems using modern technologies.
 
