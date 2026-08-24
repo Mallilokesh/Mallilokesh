@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Malli Lokesh
 
-### 🚀 Aspiring Generative AI Engineer | Java Full Stack Developer
+### 🚀 Aspiring Java Full Stack Developer
 
 I'm a Computer Science Engineering student passionate about **Generative AI, Machine Learning, Java, and Full Stack Development**. I enjoy building practical projects that solve real-world problems using modern technologies.
 
@@ -57,83 +57,10 @@ I'm a Computer Science Engineering student passionate about **Generative AI, Mac
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 AI-NutriCare
-**AI/ML-Based Personalized Diet Recommendation System**
-
-An AI-powered system that analyzes medical information and generates personalized nutrition recommendations.
-
-**Technologies:** Python, Machine Learning, Pandas, Scikit-learn
 
 ---
 
-### 🛡️ Real-Time Fraud Detection System
 
-Machine learning-based system for detecting potentially fraudulent online transactions using transaction and user behavior features.
-
-**Technologies:** Python, Scikit-learn, Random Forest, XGBoost, SMOTETomek
 
 ---
 
-### 📊 Data Analyst AI Agent
-
-An AI-powered data analysis application that allows users to upload datasets, generate visualizations, analyze data quality, ask questions about datasets, and generate reports.
-
-**Technologies:** Python, Pandas, Streamlit, Matplotlib, SQLite, AI/LLMs
-
----
-
-### 💼 Job Portal
-
-A full-stack job portal connecting job seekers, employers, and administrators.
-
-**Features:**
-- 👨‍💼 Employer Dashboard
-- 👨‍🎓 Job Seeker Dashboard
-- 🔐 Authentication
-- 📋 Job Posting
-- 🔎 Job Search
-- 📊 Admin Management
-
-**Technologies:** HTML, CSS, JavaScript, React, Node.js, Firebase
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mallilokesh&show_icons=true&theme=tokyonight" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mallilokesh&layout=compact&theme=tokyonight" height="180">
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mallilokesh&theme=tokyonight" />
-</p>
-
----
-
-## 🌱 Currently Learning
-
-```text
-Java
-   ↓
-DSA
-   ↓
-Spring Boot
-   ↓
-REST APIs
-   ↓
-MySQL
-   ↓
-React
-   ↓
-Generative AI
-   ↓
-LLMs + RAG
-   ↓
-AI Agents
