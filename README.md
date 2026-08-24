@@ -1,6 +1,10 @@
-<div align="center">
-### 👋 **Hi, I'm Malli Lokesh**
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Mallilokesh&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
+<h1 align="center">Hi 👋, I'm Malli Lokesh</h1>
 
+<div align="center">
+  
 ### 🚀 Aspiring Java Full Stack Developer
 </div>
 
