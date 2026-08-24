@@ -60,8 +60,10 @@ I'm a Computer Science Engineering student passionate about **Generative AI, Mac
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
+---
 
 <h3 align="left">🌐 Connect with Me</h3>
+
 <a href="https://www.linkedin.com/in/lokesh-malli/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
